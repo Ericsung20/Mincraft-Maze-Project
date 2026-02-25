@@ -19,11 +19,6 @@ FreeGLUT (MSVC) is required.
 - Floating item animation (sin-based motion)
 - Sound system integration
 
-## Technical Challenges
-- Fixed incorrect vertex connections in rotational mesh
-- Solved BMP 24-bit format and texture distortion issues
-- Reconstructed polygon indexing for model import
-
 ## Demo
 ![SOR Model](Final_Project/SOR_Model_Demo.png)
 ![Maze](Final_Project/3D_Maze_Demo.png)

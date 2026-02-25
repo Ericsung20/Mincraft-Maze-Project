@@ -21,7 +21,7 @@ C++, OpenGL, FreeGLUT, BMP Texture Mapping, Windows API (Sound)
 - Reconstructed polygon indexing for model import
 
 ## Demo
-![SOR Model](Image_Folder/SOR Model_Demo.png)
-![Maze](Image_Folder/3D Maze_Demo.png)
-![Maze](Image_Folder/3D Maze_Demo2.png)
-![Maze](Image_Folder/3D Maze_Demo3.png)
+![SOR Model](Image_Folder/SOR_Model_Demo.png)
+![Maze](Image_Folder/3D_Maze_Demo.png)
+![Maze](Image_Folder/3D_Maze_Demo2.png)
+![Maze](Image_Folder/3D_Maze_Demo3.png)
